@@ -1,0 +1,6 @@
+name: genpark-spatial-grid-anchor-point-mapper-skill
+version: 1.0.0
+description: Continuous viewport to discrete UI grid cell and center click coordinate mapper for computer-use agents
+command: python
+args:
+  - mcp_server.py
