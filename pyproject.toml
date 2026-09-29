@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-spatial-grid-anchor-point-mapper-skill"
+version = "1.0.0"
+description = "Continuous viewport to discrete UI grid cell and center click coordinate mapper for computer-use agents"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
